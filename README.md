@@ -24,8 +24,6 @@ Jogo de adivinhação de números!
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
-
 - HTML
 - CSS
 - JavaScript
